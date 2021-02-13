@@ -162,6 +162,7 @@ ___
 #### Lecture Video Playlist
 - [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/)
   - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+ - [CS 245 Logic and Computation Uwaterloo](https://www.youtube.com/watch?v=kCEAFjjTJyU&list=PLPW2keNyw-utXOOzLR-Wp1p0eE5LEtv3N&index=1&t=4025s)
 #### Books
 - Krantz. Handbook of Logic and Proof Techniques for Computer Science
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html)
